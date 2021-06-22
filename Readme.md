@@ -9,3 +9,8 @@
 3. Instalar babel
 	npm install --save-dev @babel/core @babel/cli @babel/preset-env
 
+4. Instalar babel node, es un interprete de node para babel
+	 npm install @babel/node -D
+
+5. Instalar nodemon para reiniciar el server de forma automatica
+	npm install -D nodemon
